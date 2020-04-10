@@ -1,0 +1,6 @@
+[submodule "playtarot-api"]
+	path = playtarot-api
+	url = git@github.com:oscar-guerin/playtarot-api.git
+[submodule "playtarot-client"]
+	path = playtarot-client
+	url = git@github.com:oscar-guerin/playtarot-client.git
